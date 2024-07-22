@@ -13,7 +13,7 @@ Toggle-
 https://www.figma.com/proto/bmYCxgOZDxbHsjhmWQHyx5/Practice?node-id=12-74&t=lvnyB0xMeE5wZ1mp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=12%3A74
 
 Animated Button-
-https://www.figma.com/proto/7EzcsMU98KbOxEEu1fpXzs/button?node-id=0-39&t=lTx4S2URxhlkOIhz-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+https://www.figma.com/proto/7EzcsMU98KbOxEEu1fpXzs/button?node-id=0-51&t=6ukOAX4tyMhWEszA-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 Collabsible Button-
 https://www.figma.com/proto/aNt39hQuDszZfbSgdUNjqK/collabsible?node-id=0-3&t=wv4S3QbdaUSEfULW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
